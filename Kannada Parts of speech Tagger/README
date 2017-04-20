@@ -1,0 +1,57 @@
+DESCRIPTION
+============
+
+The tagger is the Model 4 described in Table 2 of (Reddy and Sharoff 2011). 
+
+License:
+=======
+
+The tagger is distributed under GNU GPL license. Feel free to use, modify, and redistribute the files as necessary. We only ask you to cite our work in your paper/work. Citation details are given below
+
+Cross Language POS Taggers (and other Tools) for Indian Languages: An Experiment with Kannada using Telugu Resources. Siva Reddy, Serge Sharoff. In Proceedings of IJCNLP workshop on Cross Lingual Information Access: Computational Linguistics and the Information Need of Multilingual Societies. (CLIA 2011 at IJNCLP 2011), Chiang Mai, Thailand
+
+Paper can be downloaded from: http://sivareddy.in/papers/clia2011IndianCrossLang.pdf
+
+@InProceedings{reddy-sharoff:2011:CLIA5,
+  author    = {Reddy, Siva  and  Sharoff, Serge},
+  title     = {Cross Language POS Taggers (and other Tools) for Indian Languages: An Experiment with Kannada using Telugu Resources},
+  booktitle = {Proceedings of the Fifth International Workshop On Cross Lingual Information Access},
+  month     = {November},
+  year      = {2011},
+  address   = {Chiang Mai, Thailand},
+  publisher = {Asian Federation of Natural Language Processing},
+  pages     = {11--19},
+  url       = {http://www.aclweb.org/anthology/W11-3603}
+}
+
+This work is supported by Intellitext [1] project and Lexical Computing Ltd [2] (Sketch Engine)
+[1] http://corpus.leeds.ac.uk/it/
+[2] http://www.sketchengine.co.uk/?page=Website/Company
+
+INSTALL:
+=======
+We support only UNIX based systems (but the tagger is expected to work with Windows). There is nothing to do to install.
+
+To tag the sample file given in this software, run this command
+
+     make tag
+
+The sample files provided with the tool are kannada.sample.txt and kannada_10m.txt (in data directory). Please change input file entry in Makefile entries accordingly. For more tagging options, use "./bin/tnt -h"
+
+CONTACT
+=======
+Please drop us a line if you intend to use the tagger. We would be very happy to hear from you.
+
+For additional corpora and tools for other languages, please email your queries to
+siva@sivareddy.in or s.sharoff@leeds.ac.uk
+
+
+TAGSET DETAILS:
+==============
+Fine Grained Tags 311 discarding low frequent tags.
+Main POS Tag        25     CC, JJ, NN, VM, . . .
+Coarse POS Tag      9      adj, n, num, unk . . .
+Gender              6      any, f, m, n, punc, null
+Number              4      any, pl, sg, null
+Person              5      1, 2, 3, any, null
+Case                3      d, o, null

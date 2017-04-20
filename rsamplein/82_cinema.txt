@@ -1,0 +1,149 @@
+Bengaluru:	UNK	Bengaluru:.
+Following	UNK	Following.
+protests	UNK	protests.
+by	UNK	by.
+artists,	UNK	artists,.
+Kannada	UNK	Kannada.
+organisations,	UNK	organisations,.
+the	UNK	the.
+dubbed	UNK	dubbed.
+Kannada	UNK	Kannada.
+movie	UNK	movie.
+ Sathyadev	UNK	 Sathyadev.
+IPS	UNK	IPS.
+hasn’t	UNK	hasn’t.
+yet	UNK	yet.
+released	UNK	released.
+as	UNK	as.
+per	UNK	per.
+the	UNK	the.
+schedule	UNK	schedule.
+on	UNK	on.
+March	UNK	March.
+03	QC.num....	03.
+in	UNK	in.
+the state capital	UNK	the state capital.
+and	UNK	and.
+other	UNK	other.
+major	UNK	major.
+cities	UNK	cities.
+in	UNK	in.
+Karnataka.	UNK	Karnataka..
+.	SYM.punc....	..
+
+
+The	UNK	The.
+Tamil	UNK	Tamil.
+movie	UNK	movie.
+'Ennai	UNK	'Ennai.
+Arindal'	UNK	Arindal'.
+ is	UNK	 is.
+dubbed	UNK	dubbed.
+in	UNK	in.
+Kannada	UNK	Kannada.
+as	UNK	as.
+'Sathyadev	UNK	'Sathyadev.
+IPS'..	UNK	IPS'...
+.	SYM.punc....	..
+
+
+Following	UNK	Following.
+the	UNK	the.
+protests	UNK	protests.
+and	UNK	and.
+warning	UNK	warning.
+by	UNK	by.
+leaders,	UNK	leaders,.
+actors	UNK	actors.
+including	UNK	including.
+Vatal	UNK	Vatal.
+Nagaraj,	UNK	Nagaraj,.
+Jagesh	UNK	Jagesh.
+and	UNK	and.
+others	UNK	others.
+the	UNK	the.
+movie	UNK	movie.
+hasn’t	UNK	hasn’t.
+released	UNK	released.
+on	UNK	on.
+Friday	UNK	Friday.
+in	UNK	in.
+Karnataka.	UNK	Karnataka..
+.	SYM.punc....	..
+
+
+Earlier,	UNK	Earlier,.
+the	UNK	the.
+movie	UNK	movie.
+was	UNK	was.
+scheduled	UNK	scheduled.
+to	UNK	to.
+release	UNK	release.
+in	UNK	in.
+major	UNK	major.
+towns	UNK	towns.
+in	UNK	in.
+the	UNK	the.
+state	UNK	state.
+including	UNK	including.
+two threatres located	UNK	two threatres located.
+in	UNK	in.
+Bengaluru..	UNK	Bengaluru...
+.	SYM.punc....	..
+
+
+Speaking	UNK	Speaking.
+on	UNK	on.
+the	UNK	the.
+issue,	UNK	issue,.
+Karnataka	UNK	Karnataka.
+Film	UNK	Film.
+Chamber	UNK	Chamber.
+of	UNK	of.
+Commerce	UNK	Commerce.
+President	UNK	President.
+Krishne	UNK	Krishne.
+Gowda	UNK	Gowda.
+said	UNK	said.
+that,	UNK	that,.
+"the	UNK	"the.
+movie	UNK	movie.
+will	UNK	will.
+be released at 60	UNK	be released at 60.
+cinema threatres in	UNK	cinema threatres in.
+Karnataka.	UNK	Karnataka..
+.	SYM.punc....	..
+
+
+We	UNK	We.
+have	UNK	have.
+the	UNK	the.
+right	UNK	right.
+to dub a	UNK	to dub a.
+movie	UNK	movie.
+to display the	UNK	to display the.
+same	UNK	same.
+in	UNK	in.
+the threatres.	UNK	the threatres..
+.	SYM.punc....	..
+
+
+If any one forces	UNK	If any one forces.
+to	UNK	to.
+stop	UNK	stop.
+the	UNK	the.
+show,	UNK	show,.
+then	UNK	then.
+we	UNK	we.
+won't hesitate to	UNK	won't hesitate to.
+get	UNK	get.
+support	UNK	support.
+from	UNK	from.
+the	UNK	the.
+police.”  .	UNK	police.”  ..
+.	SYM.punc....	..
+
+
+.	SYM.punc....	..
+
+
