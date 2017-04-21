@@ -9,11 +9,11 @@ Project folder Structure:
 
 	Kannada Parts of speech Tagger - POS Tagger for Kannada language
 	
-	NLP_WPF annotator - Annotator to tag summary for sentence manualy by people
+	NLP_WPF annotator - Annotator to tag summary for articles manualy by people
 	
 	POS tagged Data - Contains results of POS tagger
 	
-	Python Scripts - py scripts to compute gss Chi square coefficient and tf-idf with and without POS tagged data.
+	Python Scripts - py scripts to compute gss Chi square coefficient and summary uisng tf-idf with and without POS tagged data.
 	
 	corpuscrawler - scrapy code to crawl webpages to build kannada article corpus
 	
@@ -21,6 +21,6 @@ Project folder Structure:
 		
 	Screenshots - images of final results anf annotator tool
 	
-	rouge tool - evaluation tool used to mesuare accuracy of the results
+	rouge tool - evaluation tool used to measuare accuracy of the results
 	
 	src/com/nlp - webservice to invoke python scripts from browser
