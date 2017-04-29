@@ -127,7 +127,7 @@ class TfIdf:
                         if word in self.gss:
                             gss = tf*self.gss[word][cn]
                         sentenceRank += (tfIdf + gss)
-                    if word in self.postags and (self.postags[word] not in ['PRP','PSP','RP','SYM']):
+                    if word in self.postags and word in self.wordDfDict and (self.postags[word] not in ['PRP','PSP','RP','SYM']):
                         tf = tfw[word]
                         #print str(word)
                         #print str(self.postags[word]) 
